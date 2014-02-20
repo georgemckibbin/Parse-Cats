@@ -9,7 +9,7 @@
 #import "GMViewController.h"
 #import <QuartzCore/QuartzCore.h>
 
-#define CAT_1_IMAGE_FILE_NAME @"cat.jpg"
+#define CAT_1_IMAGE_FILE_NAME @"cat1.jpg"
 #define CAT_2_IMAGE_FILE_NAME @"cat2.jpeg"
 #define CAT_3_IMAGE_FILE_NAME @"cat3.jpg"
 
